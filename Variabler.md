@@ -4,8 +4,12 @@
 
 *Jeppe Veirum Larsen, Okt. 2020*
 
-Fag: Programmering
+Fag: Programmering  
 Niveau: c
+
+<br/>
+
+Variabler er essentielle og en af grundpillerne i programmering. Lige meget hvad i kommer til at lave, vil i altid komme til at bruge variabler på den ene eller den anden måde. Denne tekst vil vise jer, hvad en variabel er og hvordan vi bruger den. I løbet af teksten vil der optræde forskellige ikoner, :thumbsup:,​ for at lette læsningen og gøre det nemt at finde rundt. 
 
 <br/>
 
@@ -14,7 +18,6 @@ Niveau: c
 :warning: Vigtige pointer  
 :pencil2: Øvelser eller opgaver  
 :no_entry_sign: Gør IKKE dette  
-
 
 #### Mål
 
@@ -29,6 +32,8 @@ Niveau: c
 - Se hvad den er hvis jeg ikke ved det
 
   
+
+
 
  I vil lære hvordan man opretter og ændre en variabel. I vil lære hvad en variabel kan indeholde 
 
