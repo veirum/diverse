@@ -9,11 +9,12 @@ Niveau: c
 
 **Legend**
 
-:warning: Vigtige pointer
-:pencil2: Øvelser eller opgaver
-:no_entry_sign: Gør IKKE dette
+:warning: Vigtige pointer  
+:pencil2: Øvelser eller opgaver  
+:no_entry_sign: Gør IKKE dette  
+Jkhjhj
 
-
+<br/>
 
 #### Mål
 
