@@ -142,7 +142,29 @@ Prøv at oprette din egen variabel. Du kan kalde den hvad du vil og du vælger s
 
 
 
-## Test
+> :warning: Husk at et variabel navn skal være unikt og sigende for hvad den indeholder.  
+> Du skal benytte [a-z] [A - Z] [0 - 9] _ eller $. Første position kan ikke være [0-9] når du navngiver. Ved at følge dette undgår du fejl hvis du ønsker at bruge din kode andre steder eller i andre sprog.
+>
+> :no_entry_sign: 
+>
+> ```javascript
+> //Begynder med et tal
+> let 1lilleMand = "Jørgen";
+> 
+> //Begynder med et beskytte ord
+> let undefined = 98;
+> ```
+>
+> <br/>
+>
+> :white_check_mark: 
+>
+> ```javascript
+> let enLilleMand = "Jørgen";
+> let monsterJegHarDrukket = 98;
+> ```
+>
+> 
 
 
 
