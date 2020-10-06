@@ -5,11 +5,28 @@
 *Jeppe Veirum Larsen, Okt. 2020*
 
 Fag: Programmering  
-Niveau: c
+Niveau: c  
+Sprog: JavaScript
 
 <br/>
 
-Variabler er essentielle og en af grundpillerne i programmering. Lige meget hvad i kommer til at lave, vil i altid komme til at bruge variabler på den ene eller den anden måde. Denne tekst vil vise jer, hvad en variabel er og hvordan vi bruger den. I løbet af teksten vil der optræde forskellige ikoner, :thumbsup:,​ for at lette læsningen og gøre det nemt at finde rundt. 
+Variabler er fuldstændigt essentielle og en af grundpillerne i programmering. Lige meget hvad man gerne vil lave, vil man altid komme til at bruge variabler på den ene eller den anden måde. Denne tekst vil gennemgå hvad en variabel er, hvilke typer der findes, hvordan de kan bruges og giver jer mulighed for at stifte bekendskab med oprettelse og ændringer af variabler.
+
+<br/>
+
+#### Mål
+
+- Hvad er en variabel
+
+- Hvad er datatyper
+
+- Oprette en variable
+- Basal aritmetik i programmering
+
+- Ændre typen af variablen
+
+- Skrive til konsollen
+- Konstanter
 
 <br/>
 
@@ -19,31 +36,65 @@ Variabler er essentielle og en af grundpillerne i programmering. Lige meget hvad
 :pencil2: Øvelser eller opgaver  
 :no_entry_sign: Gør IKKE dette  
 
-#### Mål
+## Hvad er en variabel?
 
-- Hvad er en variabel
+Udtrykket variabel bruges i mange forskellige sammenhænge og i kender det måske fra matematik. I matematik bruges en variabel til at beskrive en ukendt mængde så den kan ændre sig, eller variere, derfra navnet variabel. I datalogi repræsenterer en variabel allokering af data som kan ændres. Men inden vi kommer alt for langt og får præsenteret for mange nye termer så lad os få svisken på disken og se på et eksempel af en variabel der hedder *a* og indeholder værdien *2*.
 
-- Datatyper
+``` javascript
+let a = 2;
+```
 
-- Oprette navngivning hvad må den hedde konventioner
+### Anatomi
 
-- Ændre typecaste
+I eksemplet ovenfor bliver der instroduceret en masse nye eksempler. 
 
-- Se hvad den er hvis jeg ikke ved det
+```java
+//Her er en variabel kaldet 'a', indeholdende værdien 2, skrevet i C++.
 
-  
+int a = 2;
+	
+//Her er komponenterne en variabel dekleration består af
+//	type			navn				operator			værdi				terminator
+		int					a						  =						2							;
+
+```
 
 
 
- I vil lære hvordan man opretter og ændre en variabel. I vil lære hvad en variabel kan indeholde 
+***Type*** deffinere hvilken type data variablen kan indeholde. ***a*** er navnet på variablen, ***=*** er den operator som tildeler variablen en værdi, ***2*** er værdien som tildeles og ***;*** afslutter sætningen og fortæller compileren at linien er slut.
 
-I løbet af dokumentet bruges forskellige ikoner til at markere hvad nogle af afsnittene er. Vigtig information  der kunne være interessant hvis dokumentet læses igen markeres med :warning:. Igennem dikumentet er der forskellige øvelser eller opgaver og de markeres med :pencil2:. Ofte vil jeg vise eksempler der er forkerte for at illustrere hvad man IKKE gør, disse er markeret med :no_entry_sign:. til at gøre det nemmere at bruge dokumentet som opslagværk.
 
+
+
+
+
+
+````js
+//I JavaScript kan vi oprette en variabel kaldet 'a', indeholdende værdien 2, f.eks. se sådan ud.
+
+let a = 2;
  
+````
 
-## Hvad pokker er en variabel?
 
-Udtrykket variabel bruges i mange forskellige sammenhænge og i kender det måske fra matematik. I matematik bruges en variabel til at beskrive en ukendt mængde så de kan ændre sig, eller variere derfra navnet variabel. I datalogi repræsenterer en variabel allokering af data som kan ændres. Allokering betyder hvor i compterens hukommelse, ligger lige netop denne variabel er, og hvor meget plads giver vi den.
+
+## Implicitte og Eksplicitte Variabler
+
+Der findes to overordnede typer af variabler kaldet implicitte og eksplicitte variabler. 
+
+### Data typer
+
+
+
+
+
+Disse to typer knytter sig til forskellig sprog 
+
+
+
+
+
+ Allokering betyder hvor i compterens hukommelse, ligger lige netop denne variabel er, og hvor meget plads giver vi den.
 
 
 
@@ -75,6 +126,19 @@ Prøv at oprette din egen variabel. Du kan kalde den hvad du vil og du vælger s
 >
 >
 >Prøv at oprette din egen variabel. Du kan kalde den hvad du vil og du vælger selv om den skal indeholde tal eller bogstaver.
+
+
+
+> :mag: Hvis du er i tvivl om, hvilken *datatype* din variabel er.
+>
+> ```javascript
+> console.log(typeof enVariabel);
+> //output: "number"
+> ```
+>
+> 
+
+
 
 
 
