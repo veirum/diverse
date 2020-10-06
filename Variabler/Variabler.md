@@ -6,7 +6,7 @@
 
 <pre>
 
-**Fag:** Programmering c.         **Sprog:** JavaScript
+**Fag:** Programmering c.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Sprog:** JavaScript
 
 ![Think variables as boxes contining values!](./figures/variables.png)
 
