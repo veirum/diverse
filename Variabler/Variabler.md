@@ -4,13 +4,9 @@
 
 *Jeppe Veirum Larsen, Okt. 2020*
 
-<pre>
-
-**Fag:** Programmering c.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Sprog:** JavaScript
+**Fag:** Programmering c.&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;**Sprog:** JavaScript
 
 ![Think variables as boxes contining values!](./figures/variables.png)
-
-</pre>
 
 Variabler er fuldstændigt essentielle og en af grundpillerne i al programmering. Lige meget hvad man gerne vil lave, vil man altid komme til at bruge variabler på den ene eller den anden måde. Denne tekst vil gennemgå hvad en variabel er, hvilke typer der findes, hvordan de kan bruges og giver jer mulighed for at stifte bekendskab med oprettelse og ændringer af variabler.
 
