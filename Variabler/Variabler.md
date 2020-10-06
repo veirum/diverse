@@ -4,17 +4,17 @@
 
 *Jeppe Veirum Larsen, Okt. 2020*
 
-Fag: Programmering  
-Niveau: c  
-Sprog: JavaScript
+**Fag:** Programmering c.         **Sprog:** JavaScript
+
+![Think variables as boxes contining values!](./figures/variables.png)
+
+
+
+Variabler er fuldstændigt essentielle og en af grundpillerne i al programmering. Lige meget hvad man gerne vil lave, vil man altid komme til at bruge variabler på den ene eller den anden måde. Denne tekst vil gennemgå hvad en variabel er, hvilke typer der findes, hvordan de kan bruges og giver jer mulighed for at stifte bekendskab med oprettelse og ændringer af variabler.
 
 <br/>
 
-Variabler er fuldstændigt essentielle og en af grundpillerne i programmering. Lige meget hvad man gerne vil lave, vil man altid komme til at bruge variabler på den ene eller den anden måde. Denne tekst vil gennemgå hvad en variabel er, hvilke typer der findes, hvordan de kan bruges og giver jer mulighed for at stifte bekendskab med oprettelse og ændringer af variabler.
-
-<br/>
-
-#### Mål
+ **I dette forløb vil i lære**
 
 - Hvad er en variabel
 
@@ -30,23 +30,19 @@ Variabler er fuldstændigt essentielle og en af grundpillerne i programmering. L
 
 <br/>
 
-**Legend**
-
-:warning: Vigtige pointer  
-:pencil2: Øvelser eller opgaver  
-:no_entry_sign: Gør IKKE dette  
-
 ## Hvad er en variabel?
 
-Udtrykket variabel bruges i mange forskellige sammenhænge og i kender det måske fra matematik. I matematik bruges en variabel til at beskrive en ukendt mængde så den kan ændre sig, eller variere, derfra navnet variabel. I datalogi repræsenterer en variabel allokering af data som kan ændres. Men inden vi kommer alt for langt og får præsenteret for mange nye termer så lad os få svisken på disken og se på et eksempel af en variabel der hedder *a* og indeholder værdien *2*.
+Udtrykket *variabel* bruges i mange forskellige sammenhænge og i kender det måske fra matematik. I matematik bruges en variabel f.eks. *a* eller *x* til at beskrive en ukendt mængde så den kan ændre sig, eller variere, derfra navnet variabel. I datalogi repræsenterer en variabel allokering af data som kan ændres. Men inden vi kommer alt for langt og får præsenteret for mange nye termer så lad os se på et eksempel af en variabel der hedder *a* og indeholder værdien *2*.
 
 ``` javascript
 let a = 2;
 ```
 
-### Anatomi
+<br/>
 
-I eksemplet ovenfor bliver der instroduceret en masse nye eksempler. 
+### En Variabels forskellige komponenter
+
+Eksemplet ovenfor ser nok lidt fremmed ud for folk, der aldrig før har stiftet bekendskab med programmering. I dette afsnit vil vi gennemgå eksemplet de elementer som en variabel består af, så vi kan begynde at lave vores egne variabler. 
 
 ```java
 //Her er en variabel kaldet 'a', indeholdende værdien 2, skrevet i C++.
@@ -107,14 +103,13 @@ For at gå lidt væk fra de teksttunge eksempler så forestil jer at en variabel
 
 
 
-:pencil2: **Øvelse 1**
+> :pencil2: **Øvelse 1**
+>
+> Prøv at oprette din egen variabel. Du kan kalde den hvad du vil og du vælger selv om den skal indeholde tal eller bogstaver.
 
 
-Prøv at oprette din egen variabel. Du kan kalde den hvad du vil og du vælger selv om den skal indeholde tal eller bogstaver.
 
-
-
-> :warning: De mest brugte datatyper: int, float, String, bool, 
+> :warning: De mest brugte datatyper er int (heltal), float (kommatal, String (tekst), bool (sandt/falsk) 
 
 
 
