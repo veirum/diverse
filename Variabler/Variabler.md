@@ -52,8 +52,8 @@ Eksemplet ovenfor ser nok lidt fremmed ud for folk, der aldrig før har stiftet 
 let a = 2;
 	
 //Her er komponenterne en variabel dekleration består af
-//						navn			operator			værdi				terminator
-		let					a						=						2							;
+//	initialiser		navn			operator			værdi				terminator
+			let						a						=						2							;
 
 ```
 
@@ -96,7 +96,7 @@ Disse to typer knytter sig til forskellig sprog
 
 
 
-For at gå lidt væk fra de teksttunge eksempler så forestil jer at en variabel er en spand. I en spand kan man opbevare f.eks. vand og alle spande har en bestemt størrelse så der kan kune være f.eks. 20 liter i spanden inden den flyder over, men der kan også være 10 liter. 
+For at gå lidt væk fra de teksttunge eksempler så forestil jer at en variabel er en spand. I en spand kan man opbevare f.eks. vand og alle spande har en bestemt størrelse så der kan kune være f.eks. 20 liter i spanden inden den flyder over, men der kan også være 10 liter. [Nu prøver vi at skrive det][1]
 
 
 
@@ -171,35 +171,6 @@ For at gå lidt væk fra de teksttunge eksempler så forestil jer at en variabel
 >
 > 
 
+[1]: http://p5js.org	"P5.js Website"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[P5.js Website]: www.p5js.org
 
