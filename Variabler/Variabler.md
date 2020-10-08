@@ -16,6 +16,14 @@ Variabler er fuldstændigt essentielle og en af grundpillerne i al programmering
 
 <br/>
 
+## Overskrift 1
+
+
+
+
+
+
+
  **I dette forløb vil i lære**
 
 - Hvad er en variabel
@@ -37,14 +45,15 @@ Variabler er fuldstændigt essentielle og en af grundpillerne i al programmering
 Udtrykket *variabel* bruges i mange forskellige sammenhænge og mange kender det måske fra matematik. I matematik bruges en variabel f.eks. *a* eller *x* til at beskrive en ukendt mængde så den kan ændre sig, eller variere, derfra navnet variabel. I datalogi repræsenterer en variabel allokering af hukommelse til opbevaring af data som kan ændres. Men inden vi kommer alt for langt og får præsenteret for mange nye termer så lad os se på et eksempel af en variabel der hedder *a* og indeholder værdien *2*.
 
 ``` javascript
+// Et eksempel på en variabel i JavaScript
+
 let a = 2;
+
 ```
 
 <br/>
 
-### En Variabels forskellige komponenter
-
-Eksemplet ovenfor ser nok lidt fremmed ud for folk, der aldrig før har stiftet bekendskab med programmering. I dette afsnit vil vi gennemgå eksemplet de elementer som en variabel består af, så vi kan begynde at lave vores egne variabler. 
+Eksemplet her kan nok se lidt fremmed ud for folk, der aldrig før har stiftet bekendskab med programmering. Den første del *let* er en såkaldt .   første I dette afsnit vil vi gennemgå eksemplet de elementer, som en variabel består af, for at afmystificere  så vi kan begynde at lave vores egne variabler. 
 
 ```javascript
 //Her er en variabel kaldet 'a', indeholdende værdien 2, skrevet i C++.
@@ -63,16 +72,9 @@ let a = 2;
 
 
 
+## Datatyper
 
-
-
-
-````js
-//I JavaScript kan vi oprette en variabel kaldet 'a', indeholdende værdien 2, f.eks. se sådan ud.
-
-let a = 2;
- 
-````
+Når vi opretter en variabel operere vi med forskellige såkaldte data typer. 
 
 
 
@@ -169,8 +171,36 @@ For at gå lidt væk fra de teksttunge eksempler så forestil jer at en variabel
 > let monsterJegHarDrukket = 98;
 > ```
 >
+
+
+
+> :book: **Termer**
+>
+> | Term på Engelsk | Betydning på Dansk                  |
+> | --------------- | ----------------------------------- |
+> | Initialise      | Fastsætte en værdi som udgangspunkt |
+> | Allocate        | Tildele                             |
+> | Declare         | Erklære/oprette                     |
+> |                 |                                     |
+>
 > 
 
-[1]: http://p5js.org	"P5.js Website"
+
+
+[Se overskrit 1](#overskrift-1)
+
+
+
+
+
+## Ekstra materiale
+
+> Ekstra materiale hvis man ønsker at få det forklaret på andre måder aller dykke ned i lidt flere detaljer.
+
+[Javascript.info om Variabler](https://javascript.info/variables)
+
+[Variables in P5.js Video 1/2](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
+
+[Variables in P5.js Video 2/2](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
 
 
