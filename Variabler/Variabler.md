@@ -16,14 +16,6 @@ Variabler er fuldstændigt essentielle og en af grundpillerne i al programmering
 
 <br/>
 
-## Overskrift 1
-
-
-
-
-
-
-
  **I dette forløb vil i lære**
 
 - Hvad er en variabel
@@ -42,7 +34,7 @@ Variabler er fuldstændigt essentielle og en af grundpillerne i al programmering
 
 ## Hvad er en variabel?
 
-Udtrykket *variabel* bruges i mange forskellige sammenhænge og mange kender det måske fra matematik. I matematik bruges en variabel f.eks. *a* eller *x* til at beskrive en ukendt mængde så den kan ændre sig, eller variere, derfra navnet variabel. I datalogi repræsenterer en variabel allokering af hukommelse til opbevaring af data som kan ændres. Men inden vi kommer alt for langt og får præsenteret for mange nye termer så lad os se på et eksempel af en variabel der hedder *a* og indeholder værdien *2*.
+Udtrykket *variabel* bruges i mange forskellige sammenhænge og mange kender det måske fra matematik. I matematik bruges en variabel f.eks. ***a*** eller ***x*** til at beskrive en ukendt mængde så den kan ændre sig, eller variere, derfra navnet *variabel*. I datalogi repræsenterer en variabel allokering af hukommelse til opbevaring af data som kan ændres. Men inden vi kommer alt for langt og får præsenteret for mange nye termer så lad os se på et eksempel af en variabel der hedder *a* og indeholder værdien *2*.
 
 ``` javascript
 // Et eksempel på en variabel i JavaScript
@@ -53,7 +45,13 @@ let a = 2;
 
 <br/>
 
-Eksemplet her kan nok se lidt fremmed ud for folk, der aldrig før har stiftet bekendskab med programmering. Den første del *let* er en såkaldt .   første I dette afsnit vil vi gennemgå eksemplet de elementer, som en variabel består af, for at afmystificere  så vi kan begynde at lave vores egne variabler. 
+Eksemplet ovenfor kan nok se lidt fremmed ud for folk, der aldrig før har stiftet bekendskab med programmering. Den første vi skriver er ordet *let*. Det skal skrives når man ønsker at oprette en ny variabel. Herefter skal variablen have et navn, som i dette tilfælde er *a*. Dernæst kommer ligmed tegnet *( = )* , der i programmering bruges til at tildele noget en værdi som her i eksemplet er *2*. Til sidst afsluttes der med semicolon *( ; )* der er et tegn til computeren at vores linien slutter her. 
+
+
+
+HÅNDTEGNET BILLEDE HER!
+
+
 
 ```javascript
 //Her er en variabel kaldet 'a', indeholdende værdien 2, skrevet i C++.
@@ -66,13 +64,11 @@ let a = 2;
 
 ```
 
-
-
-***Type*** deffinere hvilken type data variablen kan indeholde. ***a*** er navnet på variablen, ***=*** er den operator som tildeler variablen en værdi, ***2*** er værdien som tildeles og ***;*** afslutter sætningen og fortæller compileren at linien er slut.
-
-
+<br/>
 
 ## Datatyper
+
+Som billedet [øverst](variabler) viser I vores første eksempel brugte vi tallet 2 som vi puttede ind i vores variabel. 
 
 Når vi opretter en variabel operere vi med forskellige såkaldte data typer. 
 
@@ -179,28 +175,22 @@ For at gå lidt væk fra de teksttunge eksempler så forestil jer at en variabel
 > | Term på Engelsk | Betydning på Dansk                  |
 > | --------------- | ----------------------------------- |
 > | Initialise      | Fastsætte en værdi som udgangspunkt |
-> | Allocate        | Tildele                             |
+> | Allocate        | Tildele plads i hukommelse (RAM)    |
 > | Declare         | Erklære/oprette                     |
-> |                 |                                     |
+> | Assign          | Tildele en variable en værdi        |
 >
 > 
 
 
 
-[Se overskrit 1](#overskrift-1)
 
 
-
-
-
-## Ekstra materiale
-
-> Ekstra materiale hvis man ønsker at få det forklaret på andre måder aller dykke ned i lidt flere detaljer.
-
-[Javascript.info om Variabler](https://javascript.info/variables)
-
-[Variables in P5.js Video 1/2](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
-
-[Variables in P5.js Video 2/2](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
+> :books: **Uddybende Materiale**
+>
+> [Javascript.info om Variabler](https://javascript.info/variables)
+>
+> [Variables in P5.js Video 1/2](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
+>
+> [Variables in P5.js Video 2/2](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
 
 
