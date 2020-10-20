@@ -4,7 +4,7 @@
 
 *af Jeppe Veirum Larsen, senest opdateret Okt. 2020*
 
-**Fag:** Programmering c.&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;**Sprog:** JavaScript
+**Fag:** Programmering c&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;**Sprog:** JavaScript
 
 <br/>
 
@@ -49,7 +49,7 @@ Eksemplet ovenfor kan nok se lidt fremmed ud for folk, der aldrig før har stift
 
 
 
-HÅNDTEGNET BILLEDE HER!
+HÅNDTEGNET BILLEDE HER AF DET BOKSEN VISER HERUNDER!
 
 
 
@@ -68,7 +68,51 @@ let a = 2;
 
 ## Datatyper
 
-Som billedet [øverst](variabler) viser I vores første eksempel brugte vi tallet 2 som vi puttede ind i vores variabel. 
+Vi kan se variabler som en kasse eller en spand med et navn på. Man kan putte noget ned i dem for at opbevare det, man kan kigge ned i kassen og se om alle tingene stadig er der eller tage det op og putte noget andet i. De ting vi kan putte ned i kassen hedder *datatyper*. Der findes mange forskellige datatyper, hvor de mest brugte er *int*, *float*, *bool* og *String*. I eksemplet herunder kan vi se hvordan vi opretter en variabel der indeholde hver af de mest brugte typer.
+
+
+
+![variables_int](/Users/jeppe/GitHub/diverse/Variabler/figures/variables_int.png)
+
+
+
+```javascript
+//EKSEMPEL - opret en variabel 
+
+//int står for integer og er heltal
+let etHeltal = 2;
+
+//float står for floating point og er kommatal 
+let etKommatal = 2.2;
+
+//String står for en streng af characters altså tekst
+let nogetTekst = "Hej med dig.";
+
+//bool står for boolean og er boolske værdier (sandt eller falsk)
+let sandtEllerFalsk = true;
+```
+
+<br/>
+
+>  :warning:  Javascript skelner ikke mellem int of float, men bruger den samlede datatype *number* for både int og float. Vi skelner mellem dem her, da de fleste programmeringssprog skelner mellem disse to typer. 
+
+
+
+### Kig ned i kassen
+
+Så langt så godt, men vi mangler at kunne se hvasd der ret faktisk er nede i kassen. Dette kan gøres på forskellige måder. 
+
+
+
+> :pencil2: Lav selv 10 variabler, hvor du bruger alle de forskellige datatyper. Det kunne f.eks. var data om dig selv såsom navn, alder, højde, øjenfarve, køn, osv. Når de er oprettet skriv dem til konsollen.
+
+
+
+## Ændring af Variabler
+
+
+
+der kan indeholde  I vores første eksempel brugte vi tallet 2 som vi puttede ind i vores variabel. 
 
 Når vi opretter en variabel operere vi med forskellige såkaldte data typer. 
 
@@ -94,7 +138,7 @@ Disse to typer knytter sig til forskellig sprog
 
 
 
-For at gå lidt væk fra de teksttunge eksempler så forestil jer at en variabel er en spand. I en spand kan man opbevare f.eks. vand og alle spande har en bestemt størrelse så der kan kune være f.eks. 20 liter i spanden inden den flyder over, men der kan også være 10 liter. [Nu prøver vi at skrive det][1]
+For at gå lidt væk fra de teksttunge eksempler så forestil jer at en variabel er en spand. I en spand kan man opbevare f.eks. vand og alle spande har en bestemt størrelse så der kan kune være f.eks. 20 liter i spanden inden den flyder over, men der kan også være 10 liter.
 
 
 
