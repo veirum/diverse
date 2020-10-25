@@ -23,7 +23,7 @@
 
 ## Opgave
 
-I skal finde en problemstilling hvor intelligente systemer kan afhjælpe/letter/forbedre en opgave af valgfri karakter. Problemstillingen/feltet skal anayseres så i kan beskrive et 
+I skal finde en problemstilling hvor intelligente systemer kan afhjælpe, lette eller forbedre en opgave af valgfri karakter. Problemstillingen/feltet skal anayseres og munde ud i en problemformulering ligger op til at et problem løses af et intelligent system.
 
 ### Rapport
 
@@ -31,11 +31,7 @@ I skal lave en rapport med et omfang på 15 - 30 normalsider for en enkelt perso
 
 ### Produkt
 
-Der skal fremstilles et produkt hvor funktionaliterne af det beskrevne system kan demonstreres. Hvad produktet består er og hvilken problemstilling den løser er op til jer.
-
-
-
-### 
+Der skal fremstilles et produkt hvor funktionaliterne af det beskrevne system kan demonstreres. Hvad produktet består af og hvilken problemstilling den løser er valgfri.
 
 
 
@@ -43,23 +39,29 @@ Der skal fremstilles et produkt hvor funktionaliterne af det beskrevne system ka
 
 Intelligente systemer  er teknologisk avancerede maskiner/systemer der opfanger og reagere på verden omkring dem. Disse systemer kan have mange former lige fra robot støvsugere til computer vision ansigtsgenkendelse eller Amazon's personaliserede shopping forslag.
 
+Det er vigtigt ikke at blive overvældet. Det er bedre at lave en lille simpel ting man stille og rolig udvikler til at kunne gøre mere og mere avancerede ting.
+
+
+
 ### Human Computer Interaction
 
-Ofte når vi snakker om syster der assistere mennesker kan vi beskrive den gennem en simpel model der stammer fra foskningsfeltet Human Computer Interaction (HCI). , se modellen neden for.  
+Ofte når man snakker om systemer der assistere mennesker kan det beskrives gennem en simpel model der stammer fra forskningsfeltet Human Computer Interaction (HCI), se modellen neden for.  
 
+![HCI model](https://deseng.ryerson.ca/dokuwiki/_media/design:hmil-chapanis.png?w=350&tok=420af0)
 
-
-
+Modellen beskriver interaktionen mellem menneske og maskine. Begge sider har en central processering enhed (computer/hjerne) og mulighed for at sanse (input) og påvirke verden (output). Den stiplede linie indikere interface det vil sige der hvor menneske og maskine mødes. 
 
 ## Gruppedannelse
 
-I skal selv lave grupper. I skal minimum være 2 og maksimalt 3 personer i en gruppe. Grupperne skal meldes ind til jeres underviser, med navne og antal, inden dagen er omme.
+I danner selv grupper på minimum 2 og maksimalt 3 personer. Grupperne skal meldes ind til jeres underviser, med navne og antal, inden dagen er omme.
 
 
 
 
 
 ## Tidsplan
+
+Nøgle datoer for perioden.
 
 | Dato             | Uge   | Beskrivelse                        |
 | ---------------- | ----- | ---------------------------------- |
@@ -69,6 +71,12 @@ I skal selv lave grupper. I skal minimum være 2 og maksimalt 3 personer i en gr
 | 11/2 2021        | 6     | Aflevering af projekt senest 15.00 |
 | 22/2 2021        | 8     | Fremlæggelse af projekt            |
 | 1/3 2021         | 9     | Udlevering af eksamensprojekt      |
+
+
+
+## Projektstyring
+
+I SKAL benytte Trello og tidslinie til projektstyring. Underviseren skal inviteres til jeres Trello board.
 
 
 
