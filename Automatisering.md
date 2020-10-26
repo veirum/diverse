@@ -2,7 +2,7 @@
 
 *af Jeppe Veirum Larsen, senest opdateret Okt. 2020*
 
-**Fag:** Taknikfag&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;**Retning:** Digital Design og Udvikling
+**Fag:** Teknikfag&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;**Retning:** Digital Design og Udvikling
 
 <br/>
 
